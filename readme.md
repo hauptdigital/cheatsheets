@@ -2,4 +2,4 @@
 
 Look at directories to find all cheat sheets
 
-![Shell](cmd/shell.md)
+[Shell](cmd/shell.md)
