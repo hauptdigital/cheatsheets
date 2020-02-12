@@ -1,2 +1,3 @@
 # List of temp files that should stay local
 localdata.md
+node_modules/
